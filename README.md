@@ -47,4 +47,4 @@ Random Forest Algorithm
 
 **Sample Test Data Output**
 <br><br>
-<img src="flower1.png" width=500 height=500 align="left"><br><br><img src="flower2 (2).png" width=500 height=500 align="right">
+<img src="flower1.png" width=500 height=500><br><br><img src="flower2 (2).png" width=500 height=500>
